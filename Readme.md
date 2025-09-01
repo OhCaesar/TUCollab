@@ -19,3 +19,4 @@ Please read through our instruction documents to learn about our way of working 
 
 If you do not have any experience writing in **Markdown** Syntax, using **Obsidian** or **collaborative Git** please consider reading through the official Documentation first.
 
+---
