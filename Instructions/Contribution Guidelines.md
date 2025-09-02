@@ -16,7 +16,7 @@ Please write your own Documentation into the correct Folder following our naming
 Includes a reduced and refined format of gathered information. Merged from the documents of multiple people!
 
 #### Personal Files
-*Example* : [[Topic - NAME]] 
+*Example* : [[Topic - Name]] 
 
 > Your personal Documentation / Summary of the Topic
 
