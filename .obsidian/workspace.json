@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Example/Topic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Topic"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Example/Topic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Topic"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Example/Topic.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Topic"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -171,13 +169,14 @@
       "flashcards-obsidian:Generate flashcards": false
     }
   },
-  "active": "1c89f58387427b1f",
+  "active": "86376d2aacfdc13d",
   "lastOpenFiles": [
+    "Example/Topic.md",
+    "Untitled.md",
     "Example/Topic - NAME.md",
     "Subjects/Subjects 25 - Semesterempfehlung.md",
     "Readme.md",
     "Instructions/Contribution Guidelines.md",
-    "Example/Topic.md",
     "Example/Attachments/Flashcard Image.png",
     "Example/Attachments/Attachment 01.jpg",
     "Example/Attachments",
