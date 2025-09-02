@@ -24,3 +24,4 @@ And this is the Content that will be shown on the backside of the Anki card :)
 ![[Flashcard Image.png]]
 
 ---
+
